@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156455680018",
+    "project_id": "shahochorjo",
+    "storage_bucket": "shahochorjo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156455680018:android:380c22a50c45d2b4c900cb",
+        "android_client_info": {
+          "package_name": "com.example.shohochorjoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156455680018-finm73pec9rsleuuqoaikoaikbeg9i05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACf-a1Sln60d6ACBPh-jJnYTe2DHjYA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156455680018-finm73pec9rsleuuqoaikoaikbeg9i05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
